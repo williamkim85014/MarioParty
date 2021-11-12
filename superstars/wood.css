@@ -1,9 +1,9 @@
 body {
-    background-color: lightgrey;
+    background-color: rgb(193, 240, 193);
 }
 
 h1, h2, p {
-    color: rgb(40, 0, 92);
+    color: rgb(0, 49, 0);
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
@@ -12,7 +12,7 @@ h1 {
     font-size: 70px;
 }
 
-#horror {
+#woodywoods {
     width: 95%;
     height: 95%;
     position: relative;
@@ -26,50 +26,62 @@ h1 {
 
 #s1 {
     position: relative;
-    bottom: 590px;
-    left: 420px;
+    bottom: 425px;
+    left: 255px;
 }
 
 #s2 {
     position: relative;
-    bottom: 850px;
-    left: 580px;
+    bottom: 560px;
+    left: 340px;
 }
 
 #s3 {
     position: relative;
-    bottom: 805px;
-    left: 735px;
+    bottom: 845px;
+    left: 450px;
 }
 
 #s4 {
     position: relative;
-    bottom: 405px;
-    left: 615px;
+    bottom: 690px;
+    left: 875px;
 }
 
 #s5 {
     position: relative;
-    bottom: 477px;
-    left: 793px;
+    bottom: 495px;
+    left: 910px;
 }
 
 #s6 {
     position: relative;
-    bottom: 605px;
-    left: 845px;
+    bottom: 345px;
+    left: 960px;
 }
 
 #s7 {
     position: relative;
-    bottom: 327px;
-    left: 733px;
+    bottom: 245px;
+    left: 740px;
 }
 
 #s8 {
     position: relative;
-    bottom: 258px;
-    left: 150px;
+    bottom: 382px;
+    left: 390px;
+}
+
+#s9 {
+    position: relative;
+    bottom: 285px;
+    right: 20px;
+}
+
+#s10 {
+    position: relative;
+    bottom: 125px;
+    right: 125px;
 }
 
 #starreset {
