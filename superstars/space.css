@@ -1,0 +1,77 @@
+body {
+    background-color: powderblue;
+}
+
+h1, h2, p {
+    color: rgb(0, 0, 82);
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+#space {
+    width: 95%;
+    height: 95%;
+    position: relative;
+    left: 40px;
+}
+
+.stars img {
+    height: 4.5%;
+    width: 4.5%;
+}
+
+#s1 {
+    position: relative;
+    bottom: 325px;
+    left: 215px;
+}
+
+#s2 {
+    position: relative;
+    bottom: 510px;
+    left: 420px;
+}
+
+#s3 {
+    position: relative;
+    bottom: 850px;
+    left: 195px;
+}
+
+#s4 {
+    position: relative;
+    bottom: 850px;
+    left: 777px;
+}
+
+#s5 {
+    position: relative;
+    bottom: 718px;
+    left: 1067px;
+}
+
+#s6 {
+    position: relative;
+    bottom: 650px;
+    left: 590px;
+}
+
+#s7 {
+    position: relative;
+    bottom: 180px;
+    left: 613px;
+}
+
+#s8 {
+    position: relative;
+    bottom: 385px;
+    left: 35px;
+}
+
+#starreset {
+
+}

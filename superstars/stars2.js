@@ -6,6 +6,8 @@ document.getElementById("s5").addEventListener("click", function(){hideStar("s5"
 document.getElementById("s6").addEventListener("click", function(){hideStar("s6")}, false);
 document.getElementById("s7").addEventListener("click", function(){hideStar("s7")}, false);
 document.getElementById("s8").addEventListener("click", function(){hideStar("s8")}, false);
+document.getElementById("s9").addEventListener("click", function(){hideStar("s9")}, false);
+document.getElementById("s10").addEventListener("click", function(){hideStar("s10")}, false);
 document.getElementById("starreset").addEventListener("click", resetstar, false);
 
 function hideStar(star) {
@@ -21,4 +23,6 @@ function resetstar() {
     document.getElementById("s6").style.visibility="visible";
     document.getElementById("s7").style.visibility="visible";
     document.getElementById("s8").style.visibility="visible";
+    document.getElementById("s9").style.visibility="visible";
+    document.getElementById("s10").style.visibility="visible";
 }
