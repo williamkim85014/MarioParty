@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 212, 219);
+}
+
+h1, h2, p {
+    color: rgb(75, 0, 0);
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+#cake {
+    width: 95%;
+    height: 95%;
+    position: relative;
+    left: 40px;
+}
+
+.minigame {
+    position: absolute;
+    left: 400px;
+}
+
+.happening {
+    position: absolute;
+    left: 1130px;
+}
+
+.des {
+    width: 80%;
+    position: relative;
+    top: 400px;
+    left: 180px;
+}
+
+.des p {
+    font-size: large;
+}
+
+.des h2 {
+    text-align: center;
+    font-size: xx-large;
+}
