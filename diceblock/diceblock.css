@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(232, 202, 246);
+}
+
+#single {
+    position: relative;
+
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+#mush {
+    
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+#double {
+    
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+#triple {
+    
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+#curse {
+    
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+p {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    width: 84%;
+}
+
+h1 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 25px;
+}

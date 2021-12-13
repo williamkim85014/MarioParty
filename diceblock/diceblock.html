@@ -1,20 +1,30 @@
 <!DOCTYPE html>
     <html lang="en">
         <head>
+            <link rel="stylesheet" href="diceblock.css">
             <title>Dice Block Generator</title>
         </head>
         <body>
+            <h1>
+                Dice Block Generator!
+            </h1>
             <div class="dicer">
                 <button class = "btn" id = "single" onclick = "singleDice()">Normal Dice Block!</button>
-                <p id="sing"></p>
+                <h2 id="sing"></h2>
                 <button class = "btn" id = "mush" onclick = "mushDice()">Mushroom Dice Block!</button>
-                <p id="musher"></p>
+                <h2 id="musher"></h2>
                 <button class = "btn" id = "double" onclick = "doubleDice()">Double Dice Block!</button>
-                <p id="dub"></p>
+                <h2 id="dub"></h2>
                 <button class = "btn" id = "triple" onclick = "tripleDice()">Triple Dice Block!</button>
-                <p id="trip"></p>
+                <h2 id="trip"></h2>
                 <button class = "btn" id = "curse" onclick = "curseDice()">Curse Dice Block!</button>
-                <p id="cur"></p>
+                <h2 id="cur"></h2>
+            </div>
+            <div class="description">
+                <p id="info">
+                    This Dice Block Generator works by making an API call from the Random Number Generator API. This simulates 5 different items: the Normal Dice block (1-10), 
+                    the Dice Block with a Mushroom (6-15), Double Dice Block (2-20), Triple Dice Block (3-30), and Curse Dice Block (1-3).
+                </p>
             </div>
             <script src="randomint.js"></script>
         </body>

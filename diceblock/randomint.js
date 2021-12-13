@@ -20,7 +20,7 @@ function singleDice() {
     }
 
 function mushDice() {
-        var min = 5;
+        var min = 6;
         var max = 15;
            var xhttp = new XMLHttpRequest();
             xhttp.onreadystatechange = function() {
